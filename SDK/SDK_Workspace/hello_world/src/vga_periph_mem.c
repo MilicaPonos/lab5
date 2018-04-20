@@ -30,12 +30,18 @@ void print_string(Xuint32 BaseAddress, unsigned char string_s[], int lenght){
 	}
 }
 
+void print_char(Xuint32 BaseAddress, unsigned char karakter){
+	VGA_PERIPH_MEM_mWriteMemory(BaseAddress + TEXT_MEM_OFF + cursor_position, (karakter-0x40));
+}
+
 void clear_graphics_screen(Xuint32 BaseAddress){
 	int i;
 	for (i = 0; i < 9600; i++){
 	    VGA_PERIPH_MEM_mWriteMemory(BaseAddress + GRAPHICS_MEM_OFF + i*4, 0x0);
 	}
 }
+
+
 
 void draw_square(Xuint32 BaseAddress){
 	int i, j, k;

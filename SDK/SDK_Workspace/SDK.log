@@ -137,3 +137,187 @@
 09:39:04.953 INFO  - Refreshed build settings on project hello_world 
 10:33:44.745 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
 10:36:10.473 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+09:16:04.077 INFO  - Restoring local repository preferences: 
+		 D:\work\lprs2\2013_2014\Resene_vezbe\lab56\basic_system 
+09:16:04.373 ERROR - Unable to read in MSS file C:\Users\student\Desktop\MilicaPonos\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+09:21:00.473 ERROR - Unable to read in MSS file C:\Users\student\Desktop\MilicaPonos\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+09:21:00.598 ERROR - Unable to read in MSS file C:\Users\student\Desktop\MilicaPonos\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+09:21:18.730 ERROR - Unable to read in MSS file C:\Users\student\Desktop\MilicaPonos\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+09:21:28.779 ERROR - Unable to read in MSS file C:\Users\student\Desktop\MilicaPonos\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+09:21:28.779 ERROR - Unable to read in MSS file C:\Users\student\Desktop\MilicaPonos\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+09:21:34.178 ERROR - Unable to read in MSS file C:\Users\student\Desktop\MilicaPonos\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+09:23:30.772 ERROR - Unable to read in MSS file C:\Users\student\Desktop\MilicaPonos\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+09:23:30.850 ERROR - Unable to read in MSS file C:\Users\student\Desktop\MilicaPonos\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+09:23:37.762 ERROR - Unable to read in MSS file C:\Users\student\Desktop\MilicaPonos\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+09:24:36.855 ERROR - Unable to read in MSS file C:\Users\student\Desktop\MilicaPonos\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+09:24:36.871 ERROR - Unable to read in MSS file C:\Users\student\Desktop\MilicaPonos\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+09:24:37.386 WARN  - Unable to determine location of documentation for OS . 
+09:24:37.386 ERROR - Unable to read in MSS file C:\Users\student\Desktop\MilicaPonos\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+09:24:37.401 ERROR - Unable to read in MSS file C:\Users\student\Desktop\MilicaPonos\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+09:27:46.000 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+09:34:26.423 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+09:34:55.128 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+09:35:27.189 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+09:36:54.958 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:20:06.316 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+09:22:18.072 INFO  - Restoring local repository preferences: 
+		 D:\work\lprs2\2013_2014\Resene_vezbe\lab56\basic_system 
+09:30:16.281 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+09:32:06.103 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+09:32:30.953 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+09:32:36.997 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+09:33:20.562 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+09:34:15.711 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+09:34:30.380 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+09:34:46.162 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+09:34:50.416 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+09:35:27.699 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+09:35:35.523 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+09:35:59.983 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+09:36:06.651 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+09:36:16.980 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+09:38:52.555 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+09:39:11.225 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+Failed to Scan JTAG Chain
+    Unknown Error
+ 
+09:40:07.780 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+09:40:59.244 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+09:41:08.626 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: MicroBlaze is under RESET. Check if the Reset input to MicroBlaze and its Bus Interfaces are connected properly
+    UNABLE to STOP MicroBlaze
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+09:41:22.949 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: MicroBlaze is under RESET. Check if the Reset input to MicroBlaze and its Bus Interfaces are connected properly
+    UNABLE to STOP MicroBlaze
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+09:42:55.722 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+09:43:13.628 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: MicroBlaze is under RESET. Check if the Reset input to MicroBlaze and its Bus Interfaces are connected properly
+    UNABLE to STOP MicroBlaze
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+09:43:28.410 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+09:43:30.799 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: MicroBlaze is under RESET. Check if the Reset input to MicroBlaze and its Bus Interfaces are connected properly
+    UNABLE to STOP MicroBlaze
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+09:44:20.079 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: MicroBlaze is under RESET. Check if the Reset input to MicroBlaze and its Bus Interfaces are connected properly
+    UNABLE to STOP MicroBlaze
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+09:44:38.649 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: MicroBlaze is under RESET. Check if the Reset input to MicroBlaze and its Bus Interfaces are connected properly
+    UNABLE to STOP MicroBlaze
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+09:44:56.791 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: MicroBlaze is under RESET. Check if the Reset input to MicroBlaze and its Bus Interfaces are connected properly
+    UNABLE to STOP MicroBlaze
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+09:45:21.959 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+09:45:25.369 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: MicroBlaze is under RESET. Check if the Reset input to MicroBlaze and its Bus Interfaces are connected properly
+    UNABLE to STOP MicroBlaze
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+09:51:39.865 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+09:52:03.728 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+09:52:47.510 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+09:54:37.452 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:02:05.271 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:02:53.455 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:04:11.746 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:04:45.391 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:05:07.447 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:11:49.348 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:14:23.306 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:15:28.593 INFO  - FPGA configured successfully with bitstream "C:/Users/student/Desktop/MilicaPonos/Vezba5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:18:55.099 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
